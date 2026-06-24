@@ -194,3 +194,16 @@ Dhriti
 B.Tech Computer Science (Data Science)
 
 NSUT
+## Screenshots
+
+### Autocomplete Suggestions
+
+![Autocomplete](images/search_alg.png.jpeg)
+
+### Large Prefix Search
+
+![Large Search](images/search_a.png.jpeg)
+
+### Bloom Filter Optimization
+
+![Bloom Filter](images/Bloomfilter.png.jpeg)
