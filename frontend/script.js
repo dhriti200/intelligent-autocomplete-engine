@@ -7,7 +7,7 @@ async function searchWord(){
     if(query==="") return;
 
     const response=await fetch(
-        `http://127.0.0.1:5000/search?q=${query}`
+        `https://intelligent-autocomplete-engine.onrender.com/search?q=${query}`
     );
 
     const data=await response.json();
