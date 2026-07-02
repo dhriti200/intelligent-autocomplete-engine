@@ -54,3 +54,4 @@ document
     }
 
 });
+window.searchWord = searchWord;
